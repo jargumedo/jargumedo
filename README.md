@@ -15,11 +15,11 @@ Hi, world!🌎🖥
 
 ☑️Me encuentro buscando un puesto de trabajo, para prestarle todas mis habilidades técnicas y blandas a cualquier grupo de trabajo, ya que soy una persona que le gustan los desafíos y las nuevas aventuras para crecer en este gran mundo de la programación.
 
-Si queres saber mas, no dudes en contactarme!
-📌E-mail: juliargumedoblanco@gmail.com
-📌Linkedin: https://www.linkedin.com/in/julianoargumedo/
-📌Telefono: +5492615538524
-📌 Whatsapp: https://walink.co/c5858c
+Si queres saber mas, no dudes en contactarme! <br/>
+📌E-mail: juliargumedoblanco@gmail.com <br/>
+📌Linkedin: https://www.linkedin.com/in/julianoargumedo/ <br/>
+📌Telefono: +5492615538524  <br/>
+📌 Whatsapp: https://walink.co/c5858c  <br/>
 
-Reserva tu reunion ahora mismo conmigo! 
+Reserva tu reunion ahora mismo conmigo!  <br/>
 📌 https://calendly.com/juliargumedoblanco/30min
