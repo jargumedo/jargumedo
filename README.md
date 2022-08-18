@@ -15,6 +15,8 @@ Hi, world!🌎🖥
 
 ☑️Me encuentro buscando un puesto de trabajo, para prestarle todas mis habilidades técnicas y blandas a cualquier grupo de trabajo, ya que soy una persona que le gustan los desafíos y las nuevas aventuras para crecer en este gran mundo de la programación.
 
+☑️Algunas de las tecnologias que manejo son: JAVASCRIPT/REACT/REDUX/HTML/CSS/NODE/SQL/BOOTSTRAP/POSTGRESQL entre otras.
+
 Si queres saber mas, no dudes en contactarme! <br/>
 📌E-mail: juliargumedoblanco@gmail.com <br/>
 📌Linkedin: https://www.linkedin.com/in/julianoargumedo/ <br/>
