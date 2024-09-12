@@ -6,22 +6,20 @@
 **FULL STACK DEVELOPER EN ARGENTINA**
 
 <I´m Juliano Argumedo/>
+🌍 Hello, LinkedIn!
 
-Hi, world!🌎🖥
+🙋🏻‍♂️I’m a front-end developer with a keen eye for detail and a passion for building intuitive, responsive web applications. My expertise spans technologies like Vue.js, JavaScript, HTML/CSS, and Sass, which I’ve used across a range of projects to bring ideas to life.
 
-☑️Full-Stack Developer, con experiencias en múltiples proyectos académicos con muchas tecnologias utilizadas para el desarollo de los mismos.
+💻Why work with me? 
+I don’t just code—I collaborate. My strong communication skills and natural ability to work in teams make me a valuable asset in any project. I’m known for my adaptability, always ready to pivot and solve challenges creatively, and my proactive approach means I’m constantly looking for ways to improve. Most importantly, my resilience and drive ensure I never give up on any task until it’s successfully completed.
 
-☑️Persona con muy buen trabajo en equipo, que se diferencia del resto por su comunicación y predisposición. Además de la creatividad, adaptabilidad a resolver cualquier tarea que se me disponga cuento con una gran motivación que me lleva a nunca rendirme.
+👀I’m currently looking for exciting new opportunities where I can leverage my technical skills alongside my creativity and teamwork to deliver outstanding results.
 
-☑️Me encuentro buscando un puesto de trabajo, para prestarle todas mis habilidades técnicas y blandas a cualquier grupo de trabajo, ya que soy una persona que le gustan los desafíos y las nuevas aventuras para crecer en este gran mundo de la programación.
+📩 Interested in working together? 
+Here’s how you can reach me: <br/>
+Email: juliargumedoblanco@gmail.com <br/>
+Phone: +5492615538524 <br/>
+WhatsApp: https://walink.co/c5858c<br/>
 
-☑️Algunas de las tecnologias que manejo son: JAVASCRIPT/REACT/REDUX/HTML/CSS/NODE/SQL/BOOTSTRAP/POSTGRESQL entre otras.
-
-Si queres saber mas, no dudes en contactarme! <br/>
-📌E-mail: juliargumedoblanco@gmail.com <br/>
-📌Linkedin: https://www.linkedin.com/in/julianoargumedo/ <br/>
-📌Telefono: +5492615538524  <br/>
-📌 Whatsapp: https://walink.co/c5858c  <br/>
-
-Reserva tu reunion ahora mismo conmigo!  <br/>
-📌 https://calendly.com/juliargumedoblanco/30min
+Let’s connect and create something impactful! <br/>
+Schedule a call here: https://calendly.com/juliargumedoblanco/30min
