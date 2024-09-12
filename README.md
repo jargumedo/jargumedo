@@ -6,11 +6,11 @@
 **FULL STACK DEVELOPER EN ARGENTINA**
 
 <I´m Juliano Argumedo/>
-🌍 Hello, LinkedIn!
-
+🌍 Hello, LinkedIn!<br/>
+<br/>
 🙋🏻‍♂️I’m a front-end developer with a keen eye for detail and a passion for building intuitive, responsive web applications. My expertise spans technologies like Vue.js, JavaScript, HTML/CSS, and Sass, which I’ve used across a range of projects to bring ideas to life.
-
-💻Why work with me? 
+<br/>
+💻Why work with me? <br/>
 I don’t just code—I collaborate. My strong communication skills and natural ability to work in teams make me a valuable asset in any project. I’m known for my adaptability, always ready to pivot and solve challenges creatively, and my proactive approach means I’m constantly looking for ways to improve. Most importantly, my resilience and drive ensure I never give up on any task until it’s successfully completed.
 
 👀I’m currently looking for exciting new opportunities where I can leverage my technical skills alongside my creativity and teamwork to deliver outstanding results.
