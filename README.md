@@ -21,8 +21,8 @@ I don’t just code—I collaborate. My strong communication skills and natural 
 📩 Interested in working together? 
 Here’s how you can reach me: <br/>
 Email: juliargumedoblanco@gmail.com <br/>
-Phone: +5492615538524 <br/>
-WhatsApp: https://walink.co/c5858c<br/>
+Phone: +5492613348352 <br/>
+WhatsApp: https://wa.me/+5492613348352<br/>
 
 Let’s connect and create something impactful! <br/>
 Schedule a call here: https://calendly.com/juliargumedoblanco/30min <br/>
