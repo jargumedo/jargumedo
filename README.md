@@ -25,5 +25,5 @@ Phone: +5492615538524 <br/>
 WhatsApp: https://walink.co/c5858c<br/>
 
 Let’s connect and create something impactful! <br/>
-Schedule a call here: https://calendly.com/juliargumedoblanco/30min
+Schedule a call here: https://calendly.com/juliargumedoblanco/30min <br/>
 Want to visit my portfolio? : https://portfolio-julianoargumedo.vercel.app/
